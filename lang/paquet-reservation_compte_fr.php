@@ -9,6 +9,6 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 
 	// R
 	'reservation_compte_description' => 'Permettre aux utilisateurs de gérer/visuliser les données relatifs a leurs réservations',
-	'reservation_compte_nom' => 'Rérvation compte',
+	'reservation_compte_nom' => 'Réservation compte',
 	'reservation_compte_slogan' => 'Gestion publique des réservations',
 );
